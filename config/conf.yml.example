@@ -1,0 +1,10 @@
+testing: 1
+reload_times:
+  configuration: 180
+  fees: 3600
+  pairs: 3600
+  ring_balances: 180
+arbitrage:
+  buffer: 0.005
+  max_amount: 1000
+  on_margin: 0
